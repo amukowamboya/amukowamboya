@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ian Amukowa Mboya
+#  Hi, I'm Ian Amukowa Mboya
 
 💻 **Web Developer | E-commerce Systems Builder | Tech Enthusiast | Astronomy Researcher**
 
@@ -7,7 +7,7 @@ My work combines **technology, web development, and scientific research**, espec
 
 ---
 
-## 🚀 What I Do
+## What I Do
 - 🌐 Web Development (WordPress, Elementor, website systems)
 - 🛒 E-commerce Systems & Digital Platforms
 - 💻 Programming & Tech Solutions
@@ -16,7 +16,7 @@ My work combines **technology, web development, and scientific research**, espec
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced **Programming & Software Development**
 - **Machine Learning applications in Geophysics**
 - **Data analysis using scientific datasets**
@@ -24,7 +24,7 @@ My work combines **technology, web development, and scientific research**, espec
 
 ---
 
-## 🤝 Open to Collaborate On
+## Open to Collaborate On
 - Web development projects  
 - Open-source tech solutions  
 - E-commerce platforms  
@@ -33,7 +33,7 @@ My work combines **technology, web development, and scientific research**, espec
 
 ---
 
-## 🛠 Tech & Tools
+##  Tech & Tools
 - WordPress
 - HTML, CSS, JavaScript
 - Git & GitHub
@@ -43,9 +43,9 @@ My work combines **technology, web development, and scientific research**, espec
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 📧 Email: **ianmboya10@gmail.com**
 
 ---
 
-⭐ *“Technology and science together can build solutions that shape the future.”*
+ *“Technology and science together can build solutions that shape the future.”*
